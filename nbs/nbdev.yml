@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "playground"
+  site-url: "https://xiaochuany.github.io/playground"
+  description: "kaggling logs"
+  repo-branch: main
+  repo-url: "https://github.com/xiaochuany/playground"
