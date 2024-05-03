@@ -1,0 +1,16 @@
+{
+  "id": "xy/reverse-imputation-of-peculier-zeros",
+  "title": "Reverse imputation of non-physical zeros",
+  "code_file": "02-peculier-zero-values.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "competitions/playground-series-s3e25"
+  ]
+}

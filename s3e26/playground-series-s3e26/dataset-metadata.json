@@ -1,0 +1,44 @@
+{
+  "id": "joebeachcapital/cirrhosis-patient-survival-prediction",
+  "id_no": 3873965,
+  "datasetSlugNullable": "cirrhosis-patient-survival-prediction",
+  "ownerUserNullable": "joebeachcapital",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Cirrhosis Patient Survival Prediction",
+  "subtitleNullable": "Utilize 17 clinical features to predict survival of patient with liver cirrhosis",
+  "descriptionNullable": "Utilize 17 clinical features for predicting survival state of patients with liver cirrhosis. The survival states include 0 = D (death), 1 = C (censored), 2 = CL (censored due to liver transplantation).\n\n**For what purpose was the dataset created?**\n\nCirrhosis results from prolonged liver damage, leading to extensive scarring, often due to conditions like hepatitis or chronic alcohol consumption. The data provided is sourced from a Mayo Clinic study on primary biliary cirrhosis (PBC) of the liver carried out from 1974 to 1984.\n\n**Who funded the creation of the dataset?**\n\nMayo Clinic\n\n**What do the instances in this dataset represent?**\n\nPeople\n\n**Does the dataset contain data that might be considered sensitive in any way?**\n\nGender, Age\n\n**Was there any data preprocessing performed?**\n\n1. Drop all the rows where miss value (NA) were present in the Drug column\n2. Impute missing values with mean results\n3. One-hot encoding for all category attributes\n\n**Additional Information**\n\nDuring 1974 to 1984, 424 PBC patients referred to the Mayo Clinic qualified for the randomized placebo-controlled trial testing the drug D-penicillamine. Of these, the initial 312 patients took part in the trial and have mostly comprehensive data. The remaining 112 patients didn't join the clinical trial but agreed to record basic metrics and undergo survival tracking. Six of these patients were soon untraceable after their diagnosis, leaving data for 106 of these individuals in addition to the 312 who were part of the randomized trial.\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F2003977%2F4465d9311ccae2f9ccb057fc7e14f26f%2FScreenshot%20from%202023-10-18%2009-42-52.png?generation=1697586187040332&alt=media)",
+  "datasetId": 3873965,
+  "datasetSlug": "cirrhosis-patient-survival-prediction",
+  "hasDatasetSlug": true,
+  "ownerUser": "joebeachcapital",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 13758,
+  "totalVotes": 77,
+  "totalDownloads": 2266,
+  "title": "Cirrhosis Patient Survival Prediction",
+  "hasTitle": true,
+  "subtitle": "Utilize 17 clinical features to predict survival of patient with liver cirrhosis",
+  "hasSubtitle": true,
+  "description": "Utilize 17 clinical features for predicting survival state of patients with liver cirrhosis. The survival states include 0 = D (death), 1 = C (censored), 2 = CL (censored due to liver transplantation).\n\n**For what purpose was the dataset created?**\n\nCirrhosis results from prolonged liver damage, leading to extensive scarring, often due to conditions like hepatitis or chronic alcohol consumption. The data provided is sourced from a Mayo Clinic study on primary biliary cirrhosis (PBC) of the liver carried out from 1974 to 1984.\n\n**Who funded the creation of the dataset?**\n\nMayo Clinic\n\n**What do the instances in this dataset represent?**\n\nPeople\n\n**Does the dataset contain data that might be considered sensitive in any way?**\n\nGender, Age\n\n**Was there any data preprocessing performed?**\n\n1. Drop all the rows where miss value (NA) were present in the Drug column\n2. Impute missing values with mean results\n3. One-hot encoding for all category attributes\n\n**Additional Information**\n\nDuring 1974 to 1984, 424 PBC patients referred to the Mayo Clinic qualified for the randomized placebo-controlled trial testing the drug D-penicillamine. Of these, the initial 312 patients took part in the trial and have mostly comprehensive data. The remaining 112 patients didn't join the clinical trial but agreed to record basic metrics and undergo survival tracking. Six of these patients were soon untraceable after their diagnosis, leaving data for 106 of these individuals in addition to the 312 who were part of the randomized trial.\n\n![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F2003977%2F4465d9311ccae2f9ccb057fc7e14f26f%2FScreenshot%20from%202023-10-18%2009-42-52.png?generation=1697586187040332&alt=media)",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "healthcare",
+    "health",
+    "mortality",
+    "classification",
+    "binary classification",
+    "health conditions"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "Attribution 4.0 International (CC BY 4.0)",
+      "name": "Attribution 4.0 International (CC BY 4.0)",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}
