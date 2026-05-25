@@ -1,0 +1,10 @@
+[project]
+name = "playground"
+version = "0.1.0"
+description = "Kaggle Playground Series competition notebooks"
+requires-python = ">=3.14"
+dependencies = [
+    "kaggle>=2.1.2",
+    "marimo>=0.23.8",
+    "polars>=1.41.0",
+]
