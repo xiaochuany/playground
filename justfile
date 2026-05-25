@@ -18,3 +18,4 @@ comp name:
 nb path:
     test -f {{folder}}/{{path}} || cp _template/nb.py {{folder}}/{{path}}
     uv run marimo edit {{folder}}/{{path}} --watch --no-token
+

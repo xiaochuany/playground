@@ -7,4 +7,5 @@ dependencies = [
     "kaggle>=2.1.2",
     "marimo>=0.23.8",
     "polars>=1.41.0",
+    "scikit-learn>=1.8.0",
 ]

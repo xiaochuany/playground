@@ -15,10 +15,3 @@ A collection of Kaggle Playground Series competition notebooks.
 | `s4e5` | Notebooks for Season 4, Episode 5 |
 | `s6e5` | Notebooks for Season 6, Episode 5 — Pit stop prediction (F1 telemetry) |
 
-## Usage
-
-Each subdirectory contains standalone Jupyter notebooks. Open them with Jupyter:
-
-```sh
-jupyter notebook s3e26/00-starter.ipynb
-```
